@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrainingFramework/src/GameStates/GSPlay.cpp">
+    <Files>
+      <File FileName="../file.txt" Line="74" Column="1" />
+      <File FileName="Utilities/src/CMath.cpp" />
+      <File FileName="TrainingFramework/src/GameStates/GSPlay.cpp" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TrainingFramework" expanded="True">
+            <Node name="TrainingFramework" expanded="True">
+              <Node name="src" expanded="True">
+                <Node name="GameManager" expanded="True" />
+                <Node name="GameObject" expanded="True" />
+                <Node name="GameStates" expanded="True">
+                  <Node name="GSPlay.cpp" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Utilities" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug-AMD|Win32" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
